@@ -5,12 +5,12 @@
 }
 
 body {
+  text-align: center;
+  color: #fff;
   font-family: "montserrat", sans-serif;
 }
 
 #app {
-  max-width: 540px;
-  margin: 0 auto;
   background-image: url("./cold-bg.jpg");
   background-size: cover;
   background-position: bottom;
